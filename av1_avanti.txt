@@ -1,0 +1,26 @@
+1- Machine Learning ou aprendizado de maquina é o processo onde através de um modelo estatístico
+matematica o algoritmo aprende os padrões dos dados, sendo capaz de prever e classificar os dados
+
+2- O conceito de conjuntos de treinamento, validaçao e de testes, é importante para evitar o chamado data
+leakage, que é quando o algoritmo tem acesso a dados que não estará em sua posse , no momento de fazer
+previsões, esta etapa é crucial para o sucesso do modelo.
+conjunto de treinamento é usado para o modelo treinar, o de validação é para o modelo refinar os
+hiperparametros e o de teste é pra o modelo testar como ele esta, onde o ultimo o modelo so verá uma vez.
+
+3 -A depender de quantidade e quais são os dados faltantes, há algumas opções de tratamento destes
+dados, podendo optar tanto pela exclusão(se assim, verificarmos que não prejudica-se os dados), a opção
+também, caso seja numerico, de preencher com a mediana ou a média, mas sempre antes de qualquer
+tratamento, o ideal seria consultar o responsavel pela área(negocios, marketing ou etc) que solicitou a
+analise, a conferencias dos dados faltantes ou/ e o porque esta faltando.
+
+4 - A matriz de confusão é um métrica estatistica, que avalia o modelo através dos seguintes pontos:
+VP(verdadeira positivo)- que é onde o modelo previu que é classe e, é mesmo positivo, o modelo acertou;
+FP(falso positivo)- onde o modelo previu que a classe é positiva, mas na verdade a classe é negativa,
+modelo errou; VN(verdadeiro negativo) - Onde o modelo previu que a classe é negativo, e é negatigo,
+modelo acertou; e FN- que é onde o modelo previu que é negativo, mas na verdade é positivo, portanto o
+modelo errou
+
+5 - Aplicar o Machine learning é interessante em todas áreas, pois, sempre tem um algaritmo pra
+ajudar a prever e mapear resultados, acho super interessante o como o crescimento da machine
+learning na área da saúde, ajuda a detectar doenças em tempo recorde. Mas por minha formação em
+economia, tenho um apreço e um leve tendencia em ir para o lado de finanças, negocios e economia
